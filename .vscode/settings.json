@@ -1,0 +1,13 @@
+{
+    "files.encoding": "shiftjis",
+    "files.autoGuessEncoding": false,
+    "[cmd]": {
+        "files.encoding": "shiftjis"
+    },
+    "[CMD]": {
+        "files.encoding": "shiftjis"
+    },
+    "[md]": {
+        "files.encoding": "utf8"
+    },
+}
