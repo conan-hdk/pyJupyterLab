@@ -4,7 +4,7 @@ setlocal
 pushd "%~dp0"
 
 if not exist python\tools\scripts\jupyter.exe (
-    call 02_pyinst.cmd
+    call 90_pyinst.cmd
 )
 set PATH=%CD%\python\tools;%CD%\python\tools\Scripts;%PATH%
 if not exist scripts (
