@@ -1,1 +1,1 @@
-# pyJupyter
+# pyJupyterLab
