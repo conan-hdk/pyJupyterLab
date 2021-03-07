@@ -19,8 +19,13 @@ call :pip_install -U pandas
 call :pip_install -U matplotlib
 call :pip_install -U wxPython
 call :pip_install -U simplequi
+rem call :pip_install -U pyobjc-core
+rem call :pip_install -U pyobjc
 call :pip_install -U pyautoqui
 call :pip_install -U opencv_python
+call :pip_install -U selenium
+call :pip_install -U chromedriver-binary
+call :pip_install -U beautifulsoup4
 call :pip_install -U python-dateutil pytz
 
 :exit
