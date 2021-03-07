@@ -2,12 +2,15 @@
     "files.encoding": "shiftjis",
     "files.autoGuessEncoding": false,
     "[cmd]": {
-        "files.encoding": "shiftjis"
+        "files.encoding": "shiftjis",
+        "files.eol": "\n"
     },
     "[CMD]": {
-        "files.encoding": "shiftjis"
+        "files.encoding": "sjis",
+        "files.eol": "\n"
     },
     "[md]": {
-        "files.encoding": "utf8"
+        "files.encoding": "utf8",
+        "files.eol": "\n"
     },
 }
